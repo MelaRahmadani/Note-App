@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteMe</string>
+    <string name="title">Title</string>
+    <string name="description">Descripton</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+</resources>
